@@ -11,7 +11,7 @@ DragonPaint uses geometric rules and other augmentations to leverage extremely s
 
 ![flower](./Flower200x200.bmp)
 ![flower colored](./FlowerColor200x200.bmp)
-![dragon](./Dragon200x200.bmp)
+![dragon](./pics/Dragon200x200.bmp)
 ![dragon colored](./DragonColor200x200.bmp)
 
 ##### DragonPaint - B&W Sketch to Color:
