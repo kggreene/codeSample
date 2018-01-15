@@ -288,7 +288,7 @@ class Augmentations():
         return None
 
 #CODE FOR CALLING FUNCTIONS/TESTING AUGMENTATIONS
-#A sample test. Make sure you have Flower1.png in working directory.
+#A sample test. Make sure you have Flower1.png in working directory. 
 #For other tests, uncomment a different test in testFunctions.
 augment = Augmentations()
 augment.testFunctions(1)            
