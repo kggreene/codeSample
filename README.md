@@ -1,8 +1,8 @@
 # codeSample 
-### PythonPaint Augmentations
+### DragonPaint Augmentations
 
 ##### Code sample:
-Augmentations.py is part of the code for a machine learning training set augmentation generator for DragonPaint (automated drawing and coloring of cartoon characters) and related projects.
+Augmentations.py is part of the Python code for a machine learning training set augmentation generator for DragonPaint (automated drawing and coloring of cartoon characters) and related projects.
 
 The augmentation goal is to leverage extremely small original data sets (e.g. 30 drawings, only one colored, for B&W sketch to color) to get to the estimated 400-1000 training pairs we need to follow Isola, et. al.'s GANs image to image translation work. 
 
@@ -34,9 +34,12 @@ PAPIs ML conference talk, October, 2017
 Boston Python meetup, December, 2017  
 [PAPIs slides](https://drive.google.com/open?id=1XtB26GEqcZI-nPldiM92hiByG1SH0-X1)
 
+##### User instructions
+If you want to run the sample Python code, make sure you have the test drawing Flower1.png in your working directory and have the necessary libraries, e.g. OpenCV. You can change the test file name in the code and run it using the supplied Dragon1.png or an image of your choice. 
+
 ##### Resources
-[*Image to Image Translation with Conditional Adversarial Networks*](https://arxiv.org/abs/1611.07004), Isola, et. al.
-  TensorFlow Pix2Pix [implementation](https://github.com/affinelayer/pix2pix-tensorflow) by Christopher Hesse  
+[*Image to Image Translation with Conditional Adversarial Networks*](https://arxiv.org/abs/1611.07004), Isola, et. al.  
+TensorFlow Pix2Pix [implementation](https://github.com/affinelayer/pix2pix-tensorflow) by Christopher Hesse  
 [*Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis*](https://www.microsoft.com/en-us/research/publication/best-practices-for-convolutional-neural-networks-applied-to-visual-document-analysis/), Simard, et. al.
 
 ##### Contact
