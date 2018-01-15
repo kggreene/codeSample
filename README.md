@@ -30,12 +30,12 @@ The second DragonPaint project will investigate the stages of complexity in the 
 ##### DragonPaint Presentations
 PAPIs ML conference talk, October, 2017  
 Boston Python meetup, December, 2017  
-[slides](https://drive.google.com/open?id=1XtB26GEqcZI-nPldiM92hiByG1SH0-X1)
+[PAPIs slides](https://drive.google.com/open?id=1XtB26GEqcZI-nPldiM92hiByG1SH0-X1)
 
 ##### Resources
-*Image to Image Translation with Conditional Adversarial Networks*, Isola, et. al. [paper](https://arxiv.org/abs/1611.07004)
-TensorFlow Pix2Pix implementation by Christopher Hesse [TF model](https://github.com/affinelayer/pix2pix-tensorflow)
-*Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis*, Simard, et. al. [paper](https://www.microsoft.com/en-us/research/publication/best-practices-for-convolutional-neural-networks-applied-to-visual-document-analysis/)
+[*Image to Image Translation with Conditional Adversarial Networks*](https://arxiv.org/abs/1611.07004), Isola, et. al.
+  TensorFlow Pix2Pix [implementation](https://github.com/affinelayer/pix2pix-tensorflow) by Christopher Hesse  
+[*Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis*](https://www.microsoft.com/en-us/research/publication/best-practices-for-convolutional-neural-networks-applied-to-visual-document-analysis/), Simard, et. al.
 
 ##### Contact
-[Linked In](https://www.linkedin.com/in/kgretchengreene/)
+[K. G. Greene Linked In](https://www.linkedin.com/in/kgretchengreene/)
