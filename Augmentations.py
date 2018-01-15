@@ -258,7 +258,7 @@ class Augmentations():
         if testType == 1:
             #Test one file, one function. Uncomment the one you want to see.
             #Make sure you have the files/folders for test data.
-            testImgName='flower1.png'
+            testImgName='Flower1.png'
             img=cv2.imread(testImgName)
             #self.showTransFile(testImgName,self.randRotationPair, 'flower', True)
             #self.showTransFile(testImgName,self.randRotationPair, 'flower')
@@ -288,7 +288,7 @@ class Augmentations():
         return None
 
 #CODE FOR CALLING FUNCTIONS/TESTING AUGMENTATIONS
-#A sample test. Make sure you have flower1.png in working directory.
+#A sample test. Make sure you have Flower1.png in working directory.
 #For other tests, uncomment a different test in testFunctions.
 augment = Augmentations()
 augment.testFunctions(1)            
